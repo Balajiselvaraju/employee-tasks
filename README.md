@@ -10,11 +10,28 @@ Employee must be at least 18 years old Date of joining cannot be in the past Uni
 
 The UI is designed using Bootstrap for a clean and professional look.
 
-🚀 Features User Signup & Login Add Employee Edit Employee Delete Employee View Employee List Department & Designation dropdown Form validations Responsive UI with Bootstrap 🛠️ Technologies Used Frontend: React.js Backend: Node.js (Express) Database: MySQL Styling: Bootstrap 🎯 Purpose
+🚀 Features 
+User Signup & Login 
+Add Employee 
+Edit Employee 
+Delete Employee 
+View Employee 
+List Department & Designation dropdown Form validations 
+Responsive UI with Bootstrap 
+🛠️ Technologies Used Frontend: 
+React.js 
+Backend: Node.js (Express) 
+Database: MySQL 
+Styling: Bootstrap 🎯 Purpose
 
 This project is created for learning full-stack development and is suitable for beginners and interview practice.
 
-🌐 Social Media Links 🔗 GitHub: https://github.com/Balajiselvaraju 💼 LinkedIn: https://www.linkedin.com/in/s-balaji-a21342222 📧 Email: balajiselvarajumail@gmail.com 🌍 Portfolio: https://balajiselvaraj-portfolio.netlify.app/ ⭐ Support
+🌐 Social Media Links 
+🔗 GitHub: https://github.com/Balajiselvaraju 
+💼 LinkedIn: https://www.linkedin.com/in/s-balaji-a21342222 
+📧 Email: balajiselvarajumail@gmail.com 
+🌍 Portfolio: https://balajiselvaraj-portfolio.netlify.app/ 
+⭐ Support
 
 If you like this project, please give it a ⭐ on GitHub!
 
